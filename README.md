@@ -1,60 +1,42 @@
-# 👋 ¡Hola! Soy JOSECPJ (José)
+<img src="https://img.freepik.com/fotos-premium/fondo-pantalla-azul-ciudad-ciberpunk-proyectos-diseno-fondo-escritorio_941097-125.jpg?w=1380" width="100%" height="200px" alt="Wallpaper Banner">
 
-<img align="right" src="https://avatars.githubusercontent.com/u/WhiterBy1?s=400&u=YOUR_PROFILE_IMAGE_URL" width="200px"/>
+# 👋 ¡Hola! Soy JOSE
 
-Soy estudiante de Ingeniería Biomédica apasionado por la ciencia de la computación y el desarrollo tecnológico. Con un enfoque en inteligencia artificial, machine learning y el desarrollo de software, trabajo en múltiples lenguajes de programación y frameworks. Me considero un **desarrollador full stack** y un **entusiasta de la IA**, con experiencia en embeddings y LLMs (Large Language Models).
+Soy estudiante de Ingeniería Biomédica con una pasión por la **ciencia de la computación** y la **inteligencia artificial**. Trabajo en **desarrollo full stack** y tengo experiencia en IA, LLMs, embeddings, y más.
 
 ---
 
 ## 🚀 Tecnologías y Habilidades
 
-### Lenguajes de Programación
-- 🐍 **Python** (para IA y desarrollo backend)
-- ⚙️ **C++** y **C#**
-- 🌐 **JavaScript** (para frontend y lógica de aplicaciones web)
-
-### Desarrollo Web
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python (FastAPI, Flask)
-- **Bases de Datos**: SQL, MongoDB
-
-### Inteligencia Artificial
-- Modelos LLMs, embeddings y NLP
-- Desarrollo y optimización de modelos de Machine Learning
+- **Lenguajes**: Python, C++, C#, JavaScript
+- **Inteligencia Artificial**: LLMs, embeddings, NLP
+- **Desarrollo Web**: Full stack (Frontend y Backend con Python)
 
 ---
 
 ## 📈 Estadísticas
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=WhiterBy1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiterBy1&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WhiterBy1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiterBy1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 📚 Proyectos Destacados
+## 💡 Proyectos Destacados
 
-### 1. **[Proyecto de IA con embeddings](https://github.com/WhiterBy1/proyecto-ia-embeddings)**
-   - Implementación de modelos de embeddings para clasificación de texto y análisis de sentimiento.
-
-### 2. **[Aplicación Web Full Stack](https://github.com/WhiterBy1/fullstack-app)**
-   - Desarrollada con una arquitectura robusta en Python para backend y JavaScript para frontend.
-
-### 3. **[Sistema Biomédico](https://github.com/WhiterBy1/biomedical-system)**
-   - Proyecto que combina el análisis de datos biomédicos con machine learning, orientado a estudiantes e investigadores.
-
----
-
-## 📫 Conéctate conmigo
-
-- **LinkedIn**: [Jose LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- **GitHub**: [WhiterBy1](https://github.com/WhiterBy1)
-
-Si tienes alguna pregunta o deseas colaborar en un proyecto, ¡no dudes en contactarme!
-
----
-
-### 💻 Frase Favorita
+- **[Química Orgánica 3D](https://github.com/WhiterBy1/quimica-organica-3d)**: Visualización de moléculas en 3D para ayudar en el aprendizaje de química orgánica.
+- **[Sistema de Monitoreo y Riego Inteligente](https://github.com/WhiterBy1/Sistema-de-Monitoreo-y-Riego-Inteligente-para-Plantas-con-Visualizacion-en-3D)**: Sistema inteligente de riego con visualización en 3D para el cuidado de plantas.
+  
+## 💻 Frase Favorita
 
 _"La tecnología es mejor cuando acerca a las personas."_ — Matt Mullenweg
 
-![Profile Views](https://komarev.com/ghpvc/?username=WhiterBy1&color=blue)
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WhiterBy1&color=blue" alt="Profile Views" />
+</p>
+---
+
+¡Gracias por visitar mi perfil! Conéctate conmigo para hablar sobre ciencia, tecnología o posibles colaboraciones 🚀
