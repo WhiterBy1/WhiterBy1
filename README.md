@@ -1,65 +1,60 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy JOSECPJ (José)
 
-<!--
-**WhiterBy1/WhiterBy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://avatars.githubusercontent.com/u/WhiterBy1?s=400&u=YOUR_PROFILE_IMAGE_URL" width="200px"/>
 
-Here are some ideas to get you started:
+Soy estudiante de Ingeniería Biomédica apasionado por la ciencia de la computación y el desarrollo tecnológico. Con un enfoque en inteligencia artificial, machine learning y el desarrollo de software, trabajo en múltiples lenguajes de programación y frameworks. Me considero un **desarrollador full stack** y un **entusiasta de la IA**, con experiencia en embeddings y LLMs (Large Language Models).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2 align="left">Hi 👋! My name is Jose and I'm a biomedical enginnern, from ....</h2>
+---
 
-###
+## 🚀 Tecnologías y Habilidades
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Whiterby&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Whiterby&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### Lenguajes de Programación
+- 🐍 **Python** (para IA y desarrollo backend)
+- ⚙️ **C++** y **C#**
+- 🌐 **JavaScript** (para frontend y lógica de aplicaciones web)
 
-###
+### Desarrollo Web
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Python (FastAPI, Flask)
+- **Bases de Datos**: SQL, MongoDB
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### Inteligencia Artificial
+- Modelos LLMs, embeddings y NLP
+- Desarrollo y optimización de modelos de Machine Learning
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 📈 Estadísticas
 
-###
+![Github Stats](https://github-readme-stats.vercel.app/api?username=WhiterBy1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiterBy1&layout=compact&theme=radical)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
 
-###
+## 📚 Proyectos Destacados
 
-<br clear="both">
+### 1. **[Proyecto de IA con embeddings](https://github.com/WhiterBy1/proyecto-ia-embeddings)**
+   - Implementación de modelos de embeddings para clasificación de texto y análisis de sentimiento.
 
-<img src="https://raw.githubusercontent.com/Whiterby/Whiterby/output/snake.svg" alt="Snake animation" />
+### 2. **[Aplicación Web Full Stack](https://github.com/WhiterBy1/fullstack-app)**
+   - Desarrollada con una arquitectura robusta en Python para backend y JavaScript para frontend.
 
-###
+### 3. **[Sistema Biomédico](https://github.com/WhiterBy1/biomedical-system)**
+   - Proyecto que combina el análisis de datos biomédicos con machine learning, orientado a estudiantes e investigadores.
+
+---
+
+## 📫 Conéctate conmigo
+
+- **LinkedIn**: [Jose LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- **GitHub**: [WhiterBy1](https://github.com/WhiterBy1)
+
+Si tienes alguna pregunta o deseas colaborar en un proyecto, ¡no dudes en contactarme!
+
+---
+
+### 💻 Frase Favorita
+
+_"La tecnología es mejor cuando acerca a las personas."_ — Matt Mullenweg
+
+![Profile Views](https://komarev.com/ghpvc/?username=WhiterBy1&color=blue)
