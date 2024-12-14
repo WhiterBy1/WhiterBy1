@@ -9,8 +9,9 @@ Soy estudiante de Ingeniería Biomédica con una pasión por la **ciencia de la 
 ## 🚀 Tecnologías y Habilidades
 
 - **Lenguajes**: Python, C++, C#, JavaScript
-- **Inteligencia Artificial**: LLMs, embeddings, NLP
-- **Desarrollo Web**: Full stack (Frontend y Backend con Python)
+- **Inteligencia Artificial**: CNN y NLP (tensorflow, keras, torch, sklearn)
+- **Desarrollo Web**: Full stack (Frontend y Backend (FastAPI, NestJS, Django))
+- **Ciencia de datos**
 
 ---
 
