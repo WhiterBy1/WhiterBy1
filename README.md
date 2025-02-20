@@ -18,7 +18,7 @@ Soy estudiante de Ingeniería Biomédica con una pasión por la **ciencia de la 
 ## 📈 Estadísticas
 
 <p align="center" display = "grid">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WhiterBy1&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Whiterby1&theme=dark" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=WhiterBy1&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiterBy1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
